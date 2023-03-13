@@ -1,15 +1,26 @@
 # First Contribution
 
-Este é um local para que os participantes em hackathons e outros eventos promovidos pelo [LKCAMP](https://lkcamp.dev/) possam fazer sua primeira contribuição para um projeto utilizando o fluxo do git.
+Este repositório tem o propósito de ensinar o fluxo de contribuição para
+projetos de Software Livre usando `git` e GitHub. O público alvo são novos
+membros e participantes de eventos organizados pelo
+[LKCAMP](https://lkcamp.dev/).
 
 ## Tutorial
 
-Para contribuir, siga o [tutorial do LKCAMP](https://lkcamp.dev/posts/hackathon-de-1-caractere-parte-i/) que explica o passo a passo do *setup* de git e GitLab/GitHub, o *fork*, o *clone*, as modificações, até o *merge request* (MR) ou *pull request* (PR).
+Para contribuir, siga o [tutorial do
+LKCAMP](https://lkcamp.dev/posts/hackathon-de-1-caractere-parte-i/).
 
 ## Modificações
 
-Ao fazer as modificações na sua *branch*, edite o arquivo **Contributors.md** do repositório e adicione o seu nome e link do perfil no GitLab ou GitHub à lista, seguindo a formatação indicada: 
+Ao fazer as modificações na sua *branch*, edite o arquivo
+[`Contributors.md`](Contributors.md) do repositório e adicione o seu nome (ou
+nome de usuário, se preferir não expor seu nome) e link do perfil no GitHub à
+lista, seguindo a formatação indicada:
 
-\- \[Nome Sobrenome] (link-do-perfil)
+```markdown
+- [Nome Sobrenome](link-do-perfil)
+```
 
-OBS.: para que a formatação do markdown funcione, não coloque o caractere de espaço entre o fechamento dos colchetes e a abertura dos parênteses.
+## Licença
+
+Este projeto é licenciado sob os termos da GPLv3.
