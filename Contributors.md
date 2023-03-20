@@ -7,4 +7,5 @@
 - [Kevin Caio](https://github.com/Kvn12)
 - [Leonardo Kenji](https://github.com/leo-kenji)
 - [Paulo Pacitti](https://github.com/paulopacitti)
+- [Marcos Paulo](https://github.com/marcos-evers)
 - [Rafael Carro](https://github.com/RafaelCarro)
